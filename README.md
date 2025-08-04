@@ -2,7 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning 100 days of python coding by yu_angela
 - 📫 How to reach me madiha.shaikh789@gmail.com
-- LinkedIn : www.linkedin.com/in/madiha-shaikh-722523108
+- LinkedIn : www.linkedin.com/in/madiha-shk
 
 <!---
 Madiha-Shk/Madiha-Shk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
